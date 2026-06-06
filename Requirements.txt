@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+scikit-optimize
+joblib
+Result:
+Microsoft Power BI Desktop was successfully installed and is ready for creating reports and dashboards
